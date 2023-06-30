@@ -1,16 +1,7 @@
-# users_directory
+# Users Directory
 
-A  Flutter project.
+A Flutter project.
 
-## Getting Started
+# User Directory App with Search, Contact Links, and Dark Mode
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This front-end Flutter app is a user directory that offers search capabilities, contact links, and a sleek dark mode interface. Users can easily search and find individuals within the directory, view their profiles with comprehensive information, and conveniently access contact details. The app's dark mode feature provides a visually appealing and comfortable experience, reducing eye strain and enhancing usability in low-light environments.
